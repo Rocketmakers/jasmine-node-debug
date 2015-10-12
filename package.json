@@ -1,0 +1,28 @@
+{
+  "name": "jasmine-node-debug",
+  "version": "0.1.0",
+  "description": "Debug Jasmine tests using node-inspector",
+  "bin": {
+    "jasmine-node-debug": "./index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-inspector": "~0.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocketmakers/armstrong.git"
+  },
+  "author": {
+    "name": "developmers@rocketmakers.com"
+  },
+  "keywords": [
+    "jasmine",
+    "debug",
+    "debugging",
+    "node-inspector",
+    "test",
+    "testing"
+  ],
+  "license": "MIT"
+}
