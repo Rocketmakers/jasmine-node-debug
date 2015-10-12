@@ -1,6 +1,6 @@
 {
   "name": "jasmine-node-debug",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Debug Jasmine tests using node-inspector",
   "bin": {
     "jasmine-node-debug": "./index.js"
