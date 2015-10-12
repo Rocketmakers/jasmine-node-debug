@@ -22,11 +22,10 @@ e.g. If your specs are not in the default spec folder
 jasmine-node-debug JASMINE_CONFIG_PATH=other/spec/support/jasmine.json
 ```
 
-or if they are in the defalt location
-
+or if they are in the defalt location, simply!
 
 ```terminal
-jasmine-node-debug JASMINE_CONFIG_PATH=other/spec/support/jasmine.json
+jasmine-node-debug
 ```
 The console will inform you of the url to open in a browser of your choice.
 
