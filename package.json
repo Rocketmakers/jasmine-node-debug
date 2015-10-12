@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rocketmakers/armstrong.git"
+    "url": "git+https://github.com/Rocketmakers/jasmine-node-debug.git"
   },
   "author": {
     "name": "developmers@rocketmakers.com"
@@ -24,5 +24,9 @@
     "test",
     "testing"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rocketmakers/jasmine-node-debug/issues"
+  },
+  "homepage": "https://github.com/Rocketmakers/jasmine-node-debug#readme"
 }
