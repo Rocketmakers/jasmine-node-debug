@@ -1,5 +1,7 @@
 #jasmine-node-debug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rocketmakers/jasmine-node-debug.svg)](https://greenkeeper.io/)
+
 Debug your node apps using your version of jasmine tests
 (Jasmine is not packaged by this component, but node-inspector is!)
 
